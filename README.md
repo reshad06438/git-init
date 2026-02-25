@@ -8,7 +8,9 @@ My primary area of interest is network security and infrastructure protection. I
 
 ## References
 
-National Institute of Standards and Technology. (2023). *Cybersecurity framework*. https://www.nist.gov/cyberframework
+## References
+
+Oracle Corporation. (n.d.). *Oracle VM VirtualBox documentation*. https://www.virtualbox.org/wiki/Documentation
 
 ## Lab Infrastructure & Virtualization Setup
 
