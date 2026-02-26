@@ -27,3 +27,13 @@ National Institute of Standards and Technology. (2023). *Security and privacy co
 ## Reflection
 
 Isolation is important when testing software or malware because it prevents harmful code from spreading to the host system or network. Virtualization supports secure experimentation by allowing environments to be created, modified, and deleted without impacting real systems. Snapshots and rollback features make it possible to test configurations safely and recover quickly from errors. Today’s material aligns most closely with the Network and Infrastructure security domain, as it focuses on system isolation and controlled connectivity. Understanding virtualization strengthens defensive security practices and safe lab experimentation.
+
+## Security Philosophy
+
+My lab environment uses virtualization through Oracle VirtualBox to create an isolated Linux virtual machine. Virtualization improves security by separating the guest operating system from the host system, which helps protect sensitive data and prevents unauthorized access. This isolation supports confidentiality because only authorized users and processes inside the virtual machine can access its data. Integrity is maintained by verifying installed tools such as Git and Python using the lab_verify.sh script and by using version control to prevent unauthorized or accidental modifications. Availability is ensured because the virtual machine can be started, stopped, and restored when needed without affecting the host system, allowing continuous and reliable access to the lab environment.
+
+## Reference
+
+NIST. (2020). Security and privacy controls for information systems and organizations (SP 800-53 Rev. 5). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-53r5
+
+NIST. (2011). Guide to security for full virtualization technologies (SP 800-125). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-125
