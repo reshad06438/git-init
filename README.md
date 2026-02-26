@@ -8,8 +8,6 @@ My primary area of interest is network security and infrastructure protection. I
 
 ## References
 
-## References
-
 Oracle Corporation. (n.d.). *Oracle VM VirtualBox documentation*. https://www.virtualbox.org/wiki/Documentation
 
 ## Lab Infrastructure & Virtualization Setup
