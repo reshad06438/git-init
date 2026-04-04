@@ -1,0 +1,17 @@
+=================================================================
+TLAB ORDERS: OPERATION BLACKOUT
+=================================================================
+GATEWAY: 192.168.10.1
+TARGET: secure.titancorp.com (Correct IP: 192.168.10.193)
+
+YOUR MISSION:
+1. RECOVERY: You have lost your primary connection. Pivot to OOB.
+2. LAYER 3: Restore the IP mask to /24 to reach the gateway.
+3. ROUTING: Manually restore the default gateway route.
+4. LAYER 7: Cleanse /etc/hosts of the 10.99.99.99 poisoning.
+5. PROOF: Capture the [S], [S.], and [.] flags of a 3-way handshake 
+   to secure.titancorp.com using tcpdump.
+
+ARTIFACT: ~/tlab_report.txt
+SUBMISSION: session-submit --session 02-TLAB --artifact ~/tlab_report.txt
+=================================================================

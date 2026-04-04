@@ -1,0 +1,3 @@
+10.99.88.77 - CRITICAL - UserAgent: MalwareBot/1.0
+10.99.88.77 - CRITICAL - UserAgent: MalwareBot/1.0
+45.33.22.11 - CRITICAL - UserAgent: MalwareBot/1.0

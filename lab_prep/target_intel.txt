@@ -1,0 +1,5 @@
+Target A: 127.0.0.1
+Target B: 8.8.8.8
+Target C: 1.1.1.1
+Target D: 10.0.0.1
+Target E: [SCAN_LOCAL_GATEWAY]

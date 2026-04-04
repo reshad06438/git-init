@@ -1,0 +1,8 @@
+Google Real IP:
+142.250.65.238
+
+Hidden Service:
+Port: 631
+server: CUPS
+
+

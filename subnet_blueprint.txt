@@ -1,0 +1,9 @@
+ipalc output (/24)
+Network ID: 10.50.50.0
+Broadcast ID: 10.50.50.159
+
+27 SUBNET DETAILS 
+Network ID: 10.50.50.128
+Broadcast: 10.50.50.159
+Usable Range: 10.50.50.129 - 10.50.50.158
+Subnet Mask: 255.255.255.224
