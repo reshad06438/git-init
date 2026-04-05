@@ -199,11 +199,38 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/reshad/Pictures/Screenshots/Screenshot%20from%202026-04-03%2021-44-28.png" added="2026-04-04T01:44:28.273273Z" modified="2026-04-04T01:44:28.273278Z" visited="2026-04-04T01:44:28.273275Z">
+  <bookmark href="file:///home/reshad/Pictures/Screenshots/Screenshot%20from%202026-04-03%2021-44-28.png" added="2026-04-04T01:44:28.273273Z" modified="2026-04-04T02:04:14.057458Z" visited="2026-04-04T01:44:28.273275Z">
     <info>
       <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-04-04T01:44:28.273275Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-04-04T02:04:14.052628Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-04-04T02:04:14.057456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/reshad/Pictures/Screenshots/Screenshot%20from%202026-04-03%2021-58-28.png" added="2026-04-04T01:58:28.526934Z" modified="2026-04-04T02:10:46.192826Z" visited="2026-04-04T01:58:28.526935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-04-04T01:58:28.526935Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-04-04T02:10:46.184299Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-04-04T02:10:46.192822Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/reshad/Pictures/Screenshots/Screenshot%20from%202026-04-03%2022-05-48.png" added="2026-04-04T02:05:48.694300Z" modified="2026-04-04T02:10:34.158059Z" visited="2026-04-04T02:05:48.694301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-04-04T02:05:48.694302Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2026-04-04T02:10:34.151476Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-04-04T02:10:34.158055Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
