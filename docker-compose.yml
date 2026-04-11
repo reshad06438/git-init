@@ -1,0 +1,31 @@
+version: '3.8'
+services:
+  web:
+    image: nginx
+  db:
+    image: redis
+    ports:
+      - "8080:80"
+    enviroment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: wpuser
+      WORDPRESS_DP_PASSWORD: wpass
+      WORDPRESS_DB_NAME: wpdb
+    networks:
+      - frontend
+      - backend
+
+   db:
+     image: mysql:5.7
+     environment:
+       MYSQL_DATABASE: wpdb
+       MYSQL_USER: wpuser
+       MYSQL_PASSWORD: wpass
+       MYSQL_ROOT_PASSWORD: rootpass
+    networks:
+      - backend
+
+ networks:
+   frontend:
+   backend:
+      internal: true
