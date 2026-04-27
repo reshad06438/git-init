@@ -1,0 +1,17 @@
+==================================================
+SESSION 16: READINESS INVENTORY
+==================================================
+Operator: Reshad
+Date: 4/20/26
+
+Confidence Audit (Yes/No):
+1. Nmap (Network Scanning): [Yes ]
+2. Docker (Containerization): [Yes ]
+3. Linux Hardening (UFW/chmod): [Yes ]
+4. VS Code Remote-SSH: [Yes ]
+
+Identify your weakest area and your plan to review it:
+My weakest area is Linux hardening, especially remembering UFW rules and file permissions quickly.
+My plan is to review chmod, UFW status numbered, deleting rules safely, and practice
+troubleshooting one permission issue and one firewall issue again.
+==================================================
