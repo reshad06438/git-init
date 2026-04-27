@@ -62,7 +62,7 @@ def calculate_allocations(amount, allocation_rules):
 
     return results
 
-# nice visualization to see bar chart
+# Bar Chart was added as a visualization
 def show_bar(label, amount, total):
     if total == 0:
         blocks = 0
@@ -156,4 +156,5 @@ def main():
 
 main()
 
-#(looking forward to additional features for users to use 
+#Future add ons :
+#Looking forward to adding recommendations for users.
