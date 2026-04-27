@@ -12,7 +12,7 @@ def get_float(prompt, min_value=0, max_value=None):
         except ValueError:
             print("Invalid input. Please enter a number.")
 
-# Let's user choose choose what financial route to select(looking to add more)
+# Let's user choose what financial route to select(looking to add more)
 def get_risk_profile():
     print("\nChoose your financial style:")
     print("1. Safe")
